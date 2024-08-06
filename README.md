@@ -7,3 +7,5 @@ Contribute to our mobile carriers [package](https://github.com/bitnob/mobile-car
 Submit a PR with either your lightning address or BOLT12 tag for rewards.
 
 
+## Secure Secrets
+Build an internal secrets sharing tool for us. Bounty is [here](https://github.com/bitnob/secure_secrets)
